@@ -1,7 +1,7 @@
 """
-Lotus Python Documentation
+Python Documentation
 Desc: Conditional statements labs
-All right reserved lotus code studios Apr 2021
+All right reserved Akintola Technologies Apr 2021 updt AUG 24
 """
 
 """
