@@ -4,12 +4,13 @@ lower of the dataset
 All right reserved lotus code studios Apr 2021
 """
 
-dataset = [0,1,2,3,4,5,6,7,8,9]
+dataset = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
 
 def binary_search(dataset, datum):
     mid = len(dataset) // 2
     high = dataset[: mid]
-    low = dataset[mid: ]
+    low = dataset[mid:]
 
     # debugger
     print(f"High: {high}\nLow: {low}")
@@ -35,12 +36,13 @@ midpoint and indicate which of the halfs the datum belong to in the upper
 All right reserved lotus code studios Apr 2021
 """
 
-dataset2 = [0,1,2,3,4,5,6,7,8,9]
+dataset2 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
 
 def binary_searchV2(dataset, datum):
     mid = len(dataset) // 2
     high = dataset[: mid]
-    low = dataset[mid: ]
+    low = dataset[mid:]
 
     # debugger
     print(f"High: {high}\nLow: {low}")
@@ -63,13 +65,10 @@ def binary_searchV2(dataset, datum):
         print("Datum does not exists in the Dataset")
 
 
-
-
 print(binary_searchV2(dataset2, 0))
 
 
 def blastoff(counter):
-
     if counter != 0:
         print(counter)
         blastoff(counter - 1)
@@ -77,6 +76,5 @@ def blastoff(counter):
 
     else:
         print("Launched Successfully")
-
 
 # blastoff(10)
