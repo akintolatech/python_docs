@@ -7,7 +7,7 @@ All right reserved Akintola Technologies Apr 2021 updt AUG 24
 """
 # Labs: Write a Python if/else statement to assign the smaller of x and y to the variable z. 
 given that x = 10, and y = 20.
-All right reserved lotus code studios Apr 2021
+All right reserved Akintola technologies Apr 2021
 """
 x = 20
 y = 50
