@@ -1,13 +1,19 @@
-import math
+"""
+Functions
+Python Documentation
+All right reserved Akintola Technologies Updt AUG 24
+"""
 
 
 # A function that adds 2 numbers
 def add(num1, num2):
-    sum = num1 + num2
-    return f"The sum is {sum}"
+    ops = num1 + num2
+    return f"The sum is {ops}"
 
 
-# print(add(23,45))
+addition = add(23, 45)
+print(addition)
+
 """
 Lotus Python Documentation
 Desc: Function statements
