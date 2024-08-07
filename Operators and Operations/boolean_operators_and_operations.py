@@ -19,6 +19,7 @@ print("\n")
 # or boolean operator
 print("Boolean\n")
 print("T or T: ", on or on)
+print("T and T: ", on or on)
 
 
 # not boolean operator
