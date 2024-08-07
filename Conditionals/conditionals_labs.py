@@ -43,7 +43,7 @@ if name != username:
 if userpass != password:
     print("check password")
 else:
-    print(f"Auhenticated Successfully\nWelcome on Board {username}")
+    print(f"Authenticated Successfully\nWelcome on Board {username}")
 
 """
 # Labs: Use the random module to generate a sequence of numbers, then classify the
