@@ -1,7 +1,7 @@
 """
 Programming Python
 Desc: Boolean operators and operations
-All right reserved Motiv8 Technologies Mar 2021
+All right reserved Akintola Technologies Mar 2021
 """
 import random
 
