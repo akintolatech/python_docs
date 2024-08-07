@@ -16,6 +16,11 @@ print("F and T: ",off and on)
 print("F and F: ", off and off)
 print("\n")
 
+# or boolean operator
+print("Boolean\n")
+print("T or T: ", on or on)
+
+
 # not boolean operator
 print("The not boolean operator")
 print("NOT on: ", not on)
