@@ -17,6 +17,8 @@ print("the string is " + text + " and the length is " + str(len(text)) + " and i
 # string indexing
 text = "victor"
 
+print(text[0])
+
 # Slicing operations
 
 slice = text[3:]
