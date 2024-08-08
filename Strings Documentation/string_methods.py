@@ -1,7 +1,7 @@
 """
 Programming Python
 Desc: Strings methods in Python
-All rights reserved Lotus Studios Dec 2022
+All rights reserved Akintola Technologies Dec 2022 updt AUG 24
 """
 
 text = "xxx Spam xxx"
