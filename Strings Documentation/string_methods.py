@@ -19,10 +19,10 @@ rep = text.replace("Spam", "Ram")
 
 # the in membership operator can also be used to find substrings of textx
 if "Spamxx" in text:
-    # print(True)
+    print(True)
     pass
 else:
-    # print("Not found")
+    print("Not found")
     pass
 
 # splitting strings using a specified delimiter (,): Default liimiter is whitespace
