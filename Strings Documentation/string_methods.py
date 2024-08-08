@@ -17,7 +17,7 @@ rep = text.replace("Spam", "Ram")
 # print(rep)
 
 
-# the in membership operator can also be used to find substrings of text
+# the in membership operator can also be used to find substrings of textx
 if "Spamx" in text:
     # print(True)
     pass
