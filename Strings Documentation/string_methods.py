@@ -4,7 +4,7 @@ Desc: Strings methods in Python
 All rights reserved Akintola Technologies Dec 2022 updt AUG 24
 """
 
-text = "xxx Spam xxxx"
+text = "xxx Spam xxxxx"
 
 # finding text:returns the index where the first letter is found
 pos = text.find("Spam")
