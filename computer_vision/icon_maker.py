@@ -1,6 +1,6 @@
 """
 Source: Computer Vision
-Desc: Basic Image Manipulation
+Desc: Image Conversion
 All rights reserved Akintola Technologies  - updt Aug 24
 """
 

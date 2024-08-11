@@ -1,3 +1,9 @@
+"""
+Source: Computer Vision
+Desc: Plotting Images
+All rights reserved Akintola Technologies  - updt Aug 24
+"""
+
 from PIL import Image
 import matplotlib.pyplot as plot
 import array
