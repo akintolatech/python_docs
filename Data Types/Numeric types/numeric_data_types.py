@@ -1,7 +1,7 @@
 """
-Lotus Python Documentation
+Python Documentation
 Desc: Numeric data types in python
-All right reserved lotus code studios Mar 2021
+All right reserved Akintola Technologies Mar 2021 updt Aug 24
 """
 # numeric datatypes(int, float, complex)
 integer = 1
