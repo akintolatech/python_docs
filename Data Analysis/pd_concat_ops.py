@@ -1,8 +1,7 @@
 """
 Source: Python for Data Analytics
 Desc: Concatenating Operations in Pandas
-All rights reserved Lotus Studios
-7 Sep 22
+All rights reserved Akintola Technologies 7 Sep 22 updt Aug 24
 """
 import numpy as np
 import pandas as pd
