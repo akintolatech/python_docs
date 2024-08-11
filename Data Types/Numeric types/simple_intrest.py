@@ -16,4 +16,4 @@ def simple_intrest(p, r, t):
     return f"The intrest for the Principal of {p} at the rate of {r} for the duration of {t} years is {intrest}"
 
 
-print(simple_intrest(40, 5, 5))
+print(f"The simple intrest is : {simple_intrest(40, 5, 5)}")
