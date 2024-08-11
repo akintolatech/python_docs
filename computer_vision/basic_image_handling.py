@@ -1,3 +1,9 @@
+"""
+Source: Computer Vision
+Desc: Basic Image Manipulation
+All rights reserved Akintola Technologies  Sep 22 updt Aug 24
+"""
+
 from PIL import Image
 import os
 
