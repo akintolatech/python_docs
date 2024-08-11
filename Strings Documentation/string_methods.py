@@ -26,7 +26,7 @@ else:
     pass
 
 # splitting strings using a specified delimiter (,): Default liimiter is whitespace
-_string = "akintola, victor, ayo"
+_string = "adeleke, williams, ayo"
 splitted = _string.split(",")
 # print(splitted)
 
