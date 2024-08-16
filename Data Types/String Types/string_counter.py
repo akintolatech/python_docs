@@ -3,13 +3,11 @@ Programming Python
 Desc: String Counter and Replacer
 All right reserved Motiv8 Technologies Dec 2021
 """
+
 text = open('test.txt')
 string = text.read()
 
 string_list = string.split()
-
-
-
 
 print(string_list)
 # print(string_list.count('to'))
