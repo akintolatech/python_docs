@@ -1,7 +1,7 @@
 """
 Programming Python
 Desc: String operations in python
-All right reserved Motiv8 Technologies Mar 2021
+All right reserved Motiv8 Technologies Mar 2021 updt Aug 24
 """
 
 # strings are sequence of characters
