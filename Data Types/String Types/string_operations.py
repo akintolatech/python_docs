@@ -42,6 +42,9 @@ stride_test = story[2 : 4 : 6]
 name = "lotus"
 balance = 5000
 
+# interpolation
+print(f"Your name is {name} and your balance is {balance}")
+
 print("Interpolated: Your name is:", name, "and your balance is: ", balance)
 
 # string concatenation
@@ -50,8 +53,7 @@ print("Your name is:" + name + "and your balance is: " + str(balance))
 # using the format method
 print("Your name is {0} and your balance is {1}".format(name, balance))
 
-# interpolation
-print(f"Your name is {name} and your balance is {balance}")
+
 
 
 
