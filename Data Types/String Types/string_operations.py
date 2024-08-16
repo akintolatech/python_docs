@@ -42,7 +42,7 @@ stride_test = story[2 : 4 : 6]
 name = "lotus"
 balance = 5000
 
-print("Your name is:", name, "and your balance is: ", balance)
+print("Interpolated: Your name is:", name, "and your balance is: ", balance)
 
 # string concatenation
 print("Your name is:" + name + "and your balance is: " + str(balance))
