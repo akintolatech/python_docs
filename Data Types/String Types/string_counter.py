@@ -1,7 +1,7 @@
 """
 Programming Python
 Desc: String Counter and Replacer
-All right reserved Motiv8 Technologies Dec 2021
+All right reserved Akintola Technologies Dec 2021 updt Aug 24
 """
 
 text = open('test.txt')
